@@ -1,0 +1,8 @@
+[package]
+name = "fkeys"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rdev = "0.5.3"
+enigo = { version = "0.2", features = ["wayland"] }
